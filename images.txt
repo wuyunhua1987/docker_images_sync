@@ -2,3 +2,4 @@ golang:1.24
 hexpm/elixir:1.18.4-erlang-28.0.4-ubuntu-jammy-20250819
 bitnami/golang:1.24.6
 golang:1.24-alpine
+golang:1.23-alpine
